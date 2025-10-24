@@ -1,0 +1,45 @@
+# Logs
+storage/logs/*.log
+*.log
+
+# Database
+database/app.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Dependencies
+vendor/
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Cache
+cache/
+storage/cache/
+
+# Docker
+.dockerignore
+
+# Backup files
+*.bak
+*.backup

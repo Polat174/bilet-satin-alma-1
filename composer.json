@@ -1,0 +1,13 @@
+{
+  "name": "canpolat/bilet-satin-alma",
+  "description": "Otobüs bilet satın alma platformu (PHP + SQLite)",
+  "type": "project",
+  "require": {
+    "dompdf/dompdf": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
