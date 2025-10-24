@@ -135,10 +135,6 @@ docker compose exec app php scripts/migrate.php
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📝 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
 ## 📞 İletişim
 
 Proje hakkında sorularınız için issue açabilir veya iletişime geçebilirsiniz.
